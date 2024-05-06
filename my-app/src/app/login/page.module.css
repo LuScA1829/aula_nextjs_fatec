@@ -1,4 +1,14 @@
 .conteiner{
     display: flex;
     flex-direction: column;
+    /*
+    border-width: 0.5rem;
+    border-color: black;
+    border-style: solid;
+    */
+    /*border: solid 0.5rem black;*/
+    margin: 2rem;
+    width: 100%;
+    max-width: 1440px;
+    padding: 2rem;
 }
